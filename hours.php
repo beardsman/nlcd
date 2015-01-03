@@ -19,9 +19,9 @@
                                 <h3>12/25 - 1/1: CLOSED</h3>
                                 
                                 <h5><b>Regular Hours</b></h5> -->
-                                <h3>M-F: 6A-5P</h3>
-                                <h3>SA: 7A-6P</h3>
-                                <h3>SU: 8A-1P</h3>
+                                <h5>M-F: 6A-5P</h5>
+                                <h5>SA: 7A-6P</h5>
+                                <h5>SU: 8A-1P</h5>
 
 			
 			</div>
