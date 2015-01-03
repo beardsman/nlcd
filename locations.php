@@ -17,7 +17,7 @@
                                         <div style="margin:0 auto;width:80%">
                                             <h2 class="emailText">575 N. Limestone St.</h2>
                                             <h2 class="emailText">Lexington, KY 40508</h2><br />
-                                            <h2 class="emailText">859.414.6694</h2><br />
+                                            <h2 class="emailText">859.554.6026</h2><br />
                                             
                                             <div style="text-align:center;width:100%;">
                                                 <h2 class="emailText">limestone@northlimelex.com</h2><br />
