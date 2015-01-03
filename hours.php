@@ -14,11 +14,11 @@
 				<h1>OUR HOURS</h1>
 				<br />
 				<img src="images/opensign.png" />
-                                <h5><b>Holiday Hours</b></h5>
+                                <!-- <h5><b>Holiday Hours</b></h5>
                                 <h3>12/24: 6A-12P</h3>
                                 <h3>12/25 - 1/1: CLOSED</h3>
                                 
-                                <h5><b>Regular Hours</b></h5>
+                                <h5><b>Regular Hours</b></h5> -->
                                 <h3>M-F: 6A-5P</h3>
                                 <h3>SA: 7A-6P</h3>
                                 <h3>SU: 8A-1P</h3>
