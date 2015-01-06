@@ -11,20 +11,22 @@
 			<?php pageNav("HOME");?> <!-- THIS LOADS THE LEFT PANEL, LOGO, NAV, ETC -->
 			
 			<div class="contentWrapper" id="mainContent">
-					<img src="images/muganddonuts.jpeg" />
+					<!-- <img src="images/muganddonuts.jpeg" /> -->
                                         <!-- <img src="images/cat-christmas-donut.jpg" style="box-shadow: 10px 10px 5px #888888;" /> -->
                                         <br />
 					<div class="columns fiveCol">
-						<h1>MONTHLY SPECIAL</h1>
+						<h1>-MONTHLY SPECIAL-</h1>
 						<!-- <span class="specials green">PEPPERMINT WHITE CHOCOLATE</span> -->
 					</div>
-                                        <img src="images/donuts/hot_chocolate.jpg" width="50%" style="box-shadow: 10px 10px 5px #888888;"/>
-                                        <br /><br />
+                                        <img src="images/donuts/hot_chocolate.jpg" width="50%" style="width:100%;max-height: 550px;box-shadow: 10px 10px 5px #888888;"/>
+                                        <br /><br /><br /><br />
 					<div class="columns fiveCol">
-						<h1>TODAY'S SPECIAL</h1>
+						<h1>-TODAY'S SPECIAL-</h1>
                                                 <h2>See our Twitter feeds for today's specials!</h2>
-                                                <h3><a href="http://www.twitter.com/northlimelex" style="display: inline">North Limestone</a></h3>
-                                                <h3><a href="http://www.twitter.com/NLCDClaysMill" style="display: inline">Clays Mill</a></h3>
+                                                <a href="http://www.twitter.com/northlimelex"><img src="images/twitter_limestone.jpg" style="width:100%;max-height: 550px;border: 5px solid #000000;box-shadow: 0px 0px 20px 0px #888888;"/></a>
+                                                <br /><br />
+                                                <a href="http://www.twitter.com/NLCDClaysMill"><img src="images/twitter_claysmill.jpg" style="width:100%;max-height: 550px;border: 5px solid #000000;box-shadow: 0px 0px 20px 0px #888888;"/></a>
+                                                <br /><br />
 					</div>
 			
 			</div>
