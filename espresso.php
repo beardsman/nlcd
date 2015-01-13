@@ -14,14 +14,11 @@
 				<h1>ESPRESSO BEVERAGES</h1>
 				<br />
 				
-					<p class="brews"><strong>DOUBLE SHOT:</strong>  Freshly ground, high temperature brewed drip coffee available in two different roast profiles daily.</p>
-					<p class="brews"><strong>ESPRESSO MACHIATO:</strong>  Choose any of our whole bean coffee to be freshly ground and slow-poured into your cup.</p>
-					<p class="brews"><strong>ESPRESSO CON PANNA:</strong>  Choose any of our whole bean coffee to be brewed in a press for maximum extraction.  Provides multiple cups.</p>
-					<p class="brews"><strong>DOLCE VELOCE:</strong>  Freshly ground, high temperature drip coffee with freshly steamed milk.</p>
-					<p class="brews"><strong>AMERICANO:</strong>  Brewed coffee over ice with cream and sweetened with a flavor of your choice.</p>
-					<p class="brews"><strong>CORTADO:</strong>  Freshly ground, high temperature brewed coffee with a shot of espresso.</p>
-					<p class="brews"><strong>CRISA:</strong>  Choose any whole bean coffee and have it ice brewed using the Japanese method.</p>
-					<p class="brews"><strong>CUBANO:</strong>  Choose any whole bean coffee and have it ice brewed using the Japanese method.</p>
+                                        <p class="brews"><strong>AMERICANO:</strong>  Espresso shots pulled into hot water.</p>
+                                        <p class="brews"><strong>LATTE:</strong>  Steamed milk over shots of espresso.</p>
+                                        <p class="brews"><strong>MOCHA:</strong>  Steamed milk over shots of espresso with chocolate. Topped with whipped cream.</p>
+					<p class="brews"><strong>CAPPUCINO:</strong>  Steamed milk over shots with extra foam.</p>
+					<p class="brews"><strong>CARAMEL MACCHIATO:</strong>  Steamed milk over vanilla syrup, topped with caramel and finished with shots of espresso.</p>
 				
 				<div style="clear:both;"></div>
 			</div>

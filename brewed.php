@@ -20,7 +20,6 @@
 						<p class="brews"><strong>FRENCH PRESS:</strong>  Choose any of our whole bean coffee to be brewed in a press for maximum extraction.  Provides multiple cups.</p>
 						<p class="brews"><strong>CAFE AU LAIT:</strong>  Freshly ground, high temperature drip coffee with freshly steamed milk.</p>
 						<p class="brews"><strong>COLD BREW COFFEE:</strong>  Coffee brewed in cold, filtered water for 18 hours.</p>
-						<p class="brews"><strong>RED EYE:</strong>  Freshly ground, high temperature brewed coffee with a shot of espresso.</p>
 						
 					</p>
 					

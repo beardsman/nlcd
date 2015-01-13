@@ -16,7 +16,6 @@
 				
 					<p class="brews"><strong>THE UNCLE DON:</strong>  Raspberry and white chocolate in freshly steamed milk topped with whipped cream.</p>
 					<p class="brews"><strong>HOT CHOCOLATE:</strong>  The classic. Chocolate and steamed milk topped with whipped cream.</p>
-					<p class="brews"><strong>THE CRUNCHY BERRY:</strong>  The Captain's favorite.</p>
 					<p class="brews"><strong>CANDY APPLE SPICE:</strong>  Hot, spiced apple cider topped with whipped cream and caramel.</p>
 					<p class="brews"><strong>ITALIAN SODA:</strong>  Soda water with your favorite combination of syrups.</p>
 					<p class="brews"><strong>TEA LATTES:</strong>  Combine almost any whole leaf tea with freshly steamed milk.</p>

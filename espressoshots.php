@@ -18,7 +18,6 @@
 					<p class="brews"><strong>ESPRESSO MACHIATO:</strong>  Two espresso shots pulled over steamed milk foam.</p>
 					<p class="brews"><strong>ESPRESSO CON PANNA:</strong>  Two espresso shots layered with homemade whipped cream.</p>
 					<p class="brews"><strong>DOLCE VELOCE:</strong>  Layers of French vanilla syrup, cream, and espresso.</p>
-					<p class="brews"><strong>AMERICANO:</strong>  Espresso shots pulled into hot water.</p>
 					<p class="brews"><strong>CORTADO:</strong>  A double shot blended with freshly steamed milk in a four ounce shot glass.</p>
                                         <p class="brews"><strong>CUBANO:</strong>  Espresson infused with raw sugar.</p>
 					<p class="brews"><strong>CRISA:</strong>  A double cubano shot blended with steamed milk.</p>
