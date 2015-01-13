@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 	<?php pageHeader("HOME");?> <!-- THIS LOADS THE HEADER TAGS, JAVASCRIPT, CSS, ETC -->
-	
+
 	</head>
 	<body class="bdDrinks">
 		<div class="pageWrapper">
@@ -18,14 +18,14 @@
 						<h1>-MONTHLY SPECIAL-</h1>
 						<!-- <span class="specials green">PEPPERMINT WHITE CHOCOLATE</span> -->
 					</div>
-                                        <img src="images/donuts/hot_chocolate.jpg" width="50%" style="width:100%;max-height: 550px;box-shadow: 10px 10px 5px #888888;"/>
+                                        <img class="clickpic" src="images/donuts/hot_chocolate.jpg" width="50%"/>
                                         <br /><br /><br /><br />
 					<div class="columns fiveCol">
 						<h1>-TODAY'S SPECIAL-</h1>
                                                 <h2>See our Twitter feeds for today's specials!</h2>
-                                                <a href="http://www.twitter.com/northlimelex"><img src="images/twitter_limestone.jpg" style="width:100%;max-height: 550px;border: 5px solid #000000;box-shadow: 0px 0px 20px 0px #888888;"/></a>
+                                                <a class="clickpic" href="http://www.twitter.com/northlimelex"><img class="clickpic" src="images/twitter_limestone.jpg" /></a>
                                                 <br /><br />
-                                                <a href="http://www.twitter.com/NLCDClaysMill"><img src="images/twitter_claysmill.jpg" style="width:100%;max-height: 550px;border: 5px solid #000000;box-shadow: 0px 0px 20px 0px #888888;"/></a>
+                                                <a class="clickpic" href="http://www.twitter.com/NLCDClaysMill"><img class="clickpic" src="images/twitter_claysmill.jpg" /></a>
                                                 <br /><br />
 					</div>
 			
