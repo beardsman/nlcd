@@ -18,7 +18,7 @@
 						<h1>-MONTHLY SPECIAL-</h1>
 						<!-- <span class="specials green">PEPPERMINT WHITE CHOCOLATE</span> -->
 					</div>
-                                        <img class="clickpic" src="images/donuts/strawberry_cheesecake.jpg" width="50%"/>
+                                        <img class="clickpic" src="images/donuts/champion.jpg" width="50%"/>
                                         <br /><br /><br /><br />
 					<div class="columns fiveCol">
 						<h1>-TODAY'S SPECIAL-</h1>
