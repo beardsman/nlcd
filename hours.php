@@ -20,7 +20,8 @@
                                 
                                 <h5><b>Regular Hours</b></h5> -->
                                 <h5>M-F: 6A-5P</h5>
-                                <h5>SA: 7A-6P</h5>
+                                <h5>SA: 7A-4P (Limestone)</h5>
+                                <h5>SA: 7A-6P (Clays Mill)</h5>
                                 <h5>SU: 8A-1P</h5>
 
 			
