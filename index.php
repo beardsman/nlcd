@@ -15,12 +15,6 @@
                                         <!-- <img src="images/cat-christmas-donut.jpg" style="box-shadow: 10px 10px 5px #888888;" /> -->
                                         <br />
 					<div class="columns fiveCol">
-						<h1>-MONTHLY SPECIAL-</h1>
-						<!-- <span class="specials green">PEPPERMINT WHITE CHOCOLATE</span> -->
-					</div>
-                                        <img class="clickpic" src="images/donuts/champion.jpg" width="50%"/>
-                                        <br /><br /><br /><br />
-					<div class="columns fiveCol">
 						<h1>-TODAY'S SPECIAL-</h1>
                                                 <h2>See our Twitter feeds for today's specials!</h2>
                                                 <a class="clickpic" href="http://www.twitter.com/northlimelex"><img class="clickpic" src="images/twitter_limestone.jpg" /></a>
